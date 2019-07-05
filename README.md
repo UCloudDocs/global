@@ -1,1 +1,1 @@
-# beian_FAQ
+# global
